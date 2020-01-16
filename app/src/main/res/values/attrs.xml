@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--邮票效果-->
+    <declare-styleable name="StampView">
+        <!--圆角距离上面位置-->
+        <attr name="StampViewMarginTop" format="dimension" />
+        <!--圆角半径-->
+        <attr name="StampViewCircleRadius" format="dimension" />
+        <!--背景颜色-->
+        <attr name="StampViewBgColor" format="color" />
+    </declare-styleable>
+</resources>
